@@ -1,4 +1,7 @@
 very hard
-Changes from <main> - new changes!!!
+Changes from <main>
+Changes from <first> 
+
+Text from main: new changes!!!
 
 
